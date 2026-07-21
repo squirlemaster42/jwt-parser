@@ -4,7 +4,7 @@ A simple CLI tool to decode and validate JWTs signed with HS256. I'm bad at Rust
 
 ## Prerequisites
 
-- [Rust](https://rustup.rs/) (edition 2024)
+- [Rust](https://rustup.rs/)
 
 ## Usage
 
