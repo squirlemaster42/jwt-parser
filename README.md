@@ -1,6 +1,6 @@
 # jwt-parser
 
-A simple CLI tool to decode and validate JWTs signed with HS256.
+A simple CLI tool to decode and validate JWTs signed with HS256. I'm bad at Rust, tell me what I did wrong.
 
 ## Prerequisites
 
